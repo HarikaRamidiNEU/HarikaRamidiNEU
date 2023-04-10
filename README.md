@@ -10,6 +10,7 @@
 
 ## You can reach me via:
 📧 : ramidi.h@northeastern.edu
+
 🖥️ : https://www.linkedin.com/in/harika-ramidi-996532141/
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/113070097/230803095-c9c7a62e-5b54-4d0a-b0cf-b5e866c5ac85.svg)
